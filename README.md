@@ -44,6 +44,9 @@ function DisplayEnumSymbolAsString(ctx, Symbol) {
     })
 }
 ```
+## Other Links
+
+A similar “how to” can be found [here](https://hellotwincat.dev/twincat-hmi-4-ways-to-get-enum-string-of-variable-from-plc/).  (no affiliation)
 
 ## Versions
 * TcXaeShell 3.1.4024.32
